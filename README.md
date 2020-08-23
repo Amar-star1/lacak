@@ -1,4 +1,4 @@
-# FAKE!!! 
+# INI VIRUS GOBLOK
 
 # COMMAND :
 
